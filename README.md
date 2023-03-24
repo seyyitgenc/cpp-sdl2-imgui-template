@@ -2,4 +2,4 @@
 
 An example of using [Dear ImGui](https://github.com/ocornut/imgui) with [SDL](https://www.libsdl.org).
 
-!SDL and Dear ImGui
+! SDL and Dear ImGui
